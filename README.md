@@ -1,3 +1,5 @@
+By: Chris Langgaard Klokholm 68852, Fredrik Dan Lund 69205, Lasse Nicolas Madsen 69398, Jonathan Thorsteinsson 68884, Selvije Fejzuli 68871
+
 # Hand-insForIDS
 This repository includes part 1 and part 2 for the exam in IDS - Autumn 2021
 
