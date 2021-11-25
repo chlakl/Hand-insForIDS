@@ -14,7 +14,6 @@ void loop() {
     brightness = Serial.read();
     // Juster lysstyrke:
     digitalWrite(LED_PIN, brightness);
-    digitalWrite(LED_PIN, 0);
 
   }
 
